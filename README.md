@@ -16,7 +16,7 @@ I also enjoy how **versatile** pasta is, as you can create your own custom versi
 _ _ _
   ## List of undordered side dishes
 
-- French Fries
-- Coleslaw
-- Grilled Vegetables
+1. French Fries
+2. Coleslaw
+3. Grilled Vegetables
 
