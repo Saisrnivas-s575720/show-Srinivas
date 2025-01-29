@@ -13,6 +13,8 @@ I also enjoy how **versatile** pasta is, as you can create your own custom versi
    1. Local Grocery Store
    2. Specialty Food Market
    3. Online Delivery Service
+   ---
+   ## Unordered List
 
 - French Fries
 - Coleslaw
