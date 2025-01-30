@@ -50,6 +50,9 @@ _Oscar Wilde_
 ## Code Snippet
 ```dart
 
+Tags: dart, files, dart package
+
+Uses Dart packaging URI to get the path to a package allowing one to pull assets/files from a Dart package. This ultimately allows “Flutter-like” asset bundling within a Dart package.
 
 void main() {
   group('group of tests', () {
