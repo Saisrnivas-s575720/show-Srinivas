@@ -53,7 +53,7 @@ _Oscar Wilde_
 void main() {
   group('group of tests', () {
     test('unit test', () {
-      expect(true, isTrue);  // This is more expressive and semantically correct
+      expect(true, isTrue);  
     });
   });
 }
