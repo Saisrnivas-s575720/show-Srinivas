@@ -30,4 +30,13 @@ I would like to see these actors play the main role:
 | Cilian Murphy| Pin to point | 48 |
 | RDJ|Experinced and favourite| 59 |
 | Emily blunt | Characterisation| 41 |
+---
+---
+## Favorite Quotes
+> "Man needs his difficulties because they are necessary to enjoy success."  
+_A. P. J. Abdul Kalam_
+
+> "To live is the rarest thing in the world. Most people exist, that is all."  
+Oscar wilde_
+
 
