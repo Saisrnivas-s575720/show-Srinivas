@@ -34,6 +34,7 @@ I would like to see these actors play the main role:
 | Cilian Murphy | Pin to point              | 48  |
 | RDJ           | Experienced and favourite | 59  |
 | Emily Blunt   | Characterisation          | 41  |
+| Micheal   | Characterisation          | 45 |
 
 ---
 
