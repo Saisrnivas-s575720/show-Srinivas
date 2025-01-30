@@ -45,4 +45,20 @@ _A. P. J. Abdul Kalam_
 _Oscar Wilde_
 
 
+---
+## Code Snippet
+```dart
+
+
+void main() {
+  group('group of tests', () {
+    test('unit test', () {
+      expect(true, isTrue);  // This is more expressive and semantically correct
+    });
+  });
+}
+
+
+
+
 
